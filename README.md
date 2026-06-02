@@ -13,9 +13,11 @@
 Learn how AI Skills Navigator helps engineering teams accelerate readiness for building and shipping AI agents. This demo shows how personalized, role-aligned learning paths bring together Microsoft Learn, skilling sessions, Applied Skills, LinkedIn Learning, and YouTube; how agentic team playlists map to real delivery goals such as build, ground, evaluate, and deploy; and how the Learning Agent in Microsoft 365 Copilot supports continuous, work-aligned upskilling at scale.
 
 ### 🚀 Getting started
+If you're following these steps at your own pace, review the session overview and start with the resources listed below to build your personalized learning plan
 
-If you're following these steps at your own pace:
-- Review the session overview and start with the resources listed below to build your personalized learning plan
+- [Sign in to AI Skills Navigator](https://AKA.ms/ASN)
+- [Register now for AI Skills Fest!](https://AKA.ms/AISkillsFest)
+
 
 ### 🧠 Learning Outcomes
 
@@ -25,33 +27,10 @@ By the end of this demo, you will be able to:
 - Describe how agentic team playlist authoring maps learning to real engineering outcomes: build, ground, evaluate, and deploy AI agents.
 - Evaluate how Learning Agent experiences in Microsoft 365 Copilot can support continuous, work-aligned upskilling for engineering teams.
 
-### 💬 Keep Learning with Copilot
-
-Try these prompts with GitHub Copilot to explore the topics from this demo. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
-
-Use these as a starting point — or write your own!
-
-1. Understand the platform basics:
-
-```text
-Explain how AI Skills Navigator brings together Microsoft Learn, skilling sessions, Applied Skills, LinkedIn Learning, and YouTube for role-based skilling.
-```
-
-1. Explore implementation details:
-
-```text
-Using the Microsoft Learn MCP Server, find the latest documentation for Microsoft 365 Copilot and summarize how Learning Agents support work-aligned upskilling.
-```
-
-1. Build a team plan:
-
-```text
-Help me create a 30-day team learning plan for AI agent delivery that maps to build, ground, evaluate, and deploy milestones.
-```
-
 ### 💻 Technologies Used
 
 1. [Microsoft 365 Copilot](https://learn.microsoft.com/microsoft-365/copilot/microsoft-365-copilot-overview)
+1. [Learning Agent](https://learn.microsoft.com/en-us/viva/learning/learning-agent-overview-deployment-steps)
 1. [Microsoft Learn](https://learn.microsoft.com/training/support/integrations)
 1. [Microsoft Applied Skills](https://learn.microsoft.com/credentials/support/appliedskills-process-overview)
 
